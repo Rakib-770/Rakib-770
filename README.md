@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Muhammad Rakibul Islam
+AI Systems Engineer | System Engineer | Software Engineer
 
-<!--
-**Rakib-770/Rakib-770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & LLM
+    Claude Code • LLM • Prompt Engineering • AI Automation
 
-Here are some ideas to get you started:
+Software Engineering
+    Python • PHP/Laravel • REST APIs • SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud & DevOps
+    AWS • Docker • Kubernetes • Terraform • CI/CD
+
+🚀 Featured Projects
+    AI/LLM Projects
+    Automation Systems
+    Cloud Billing
+    NLP/Deep Learning
+
+🧠 Currently Building
+    AI-powered systems
+    LLM automation
+    AI-assisted development
+
+📊 GitHub Activity
+    Contributions
+    Languages
+    Projects
+
+🎓 Education & Certifications
+
+📫 Connect With Me
+    LinkedIn • Email • GitHub
