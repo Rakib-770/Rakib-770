@@ -1,72 +1,152 @@
-# Hi there, I'm **Muhammad Rakibul Islam** 👋
+<h1 align="center">Hi 👋, I'm Muhammad Rakibul Islam</h1>
+<h3 align="center">System Engineer • AI-Assisted Developer • Automation & Cloud Infrastructure</h3>
 
-```python
-class SystemEngineer:
-    def __init__(self):
-        self.name = "Muhammad Rakibul Islam"
-        self.role = "System Engineer & AI-Assisted Developer"
-        self.education = "M.Sc & B.Sc in Computer Science & Engineering"
-        self.location = "Dhaka, Bangladesh"
-        self.passions = ["Cloud Infrastructure", "System Automation", "LLMs & AI Workflows", "Backend Engineering"]
+<p align="center">
+  <a href="https://linkedin.com/in/rakibul-islam-770"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Rakib-770"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:rakibulislam5770@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
-    def current_focus(self):
-        return {
-            "scale": "Processing 2M+ records daily across enterprise CRM/DWH/BSS/OSS",
-            "efficiency": "Automated ~40% of operational workflows via scripting & LLM tooling",
-            "stack": ["Python", "PHP/Laravel", "SQL (MySQL/Oracle)", "Docker/K8s", "AWS", "Claude Code"]
-        }
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=System+Engineer+%7C+4%2B+Years;AI-Assisted+Developer+%7C+Claude+Code;Automating+40%25+of+Manual+Workflows;Processing+2M%2B+Records+Daily" />
+</p>
 
 ---
 
-### 💡 About Me
+## 🚀 About Me
 
-I am an **Experienced System Engineer & AI-Assisted Software Developer** with **4+ years** of hands-on expertise building enterprise-grade applications, automated data pipelines, high-availability infrastructure, and modern AI-driven workflows. 
+I'm an **Experienced System Engineer & AI-Assisted Software Developer** with **4+ years** of hands-on expertise building enterprise-grade applications, automated data pipelines, high-availability infrastructure, and modern AI-driven workflows.
 
-I bridge the gap between **Software Engineering**, **DevOps/Systems**, and **Generative AI**—using advanced LLMs (like Claude Code) to accelerate feature delivery, refactor legacy codebases, automate complex workflows, and optimize high-throughput data pipelines.
+I bridge **Software Engineering**, **DevOps/Systems**, and **Generative AI** — using advanced LLMs (Claude Code, GPT) to accelerate feature delivery, refactor legacy codebases, automate complex workflows, and optimize high-throughput data pipelines.
 
 - 🔭 Currently optimizing enterprise billing systems & ETL pipelines at **Mir Telecom Group**
-- 🎓 **M.Sc in CSE** from Jahangirnagar University *(Thesis: Natural Language Mathematical Problem Solver Using Deep Learning)*
-- 🎓 **B.Sc in CSE** from American International University-Bangladesh (AIUB)
+- 🎓 **M.Sc in CSE** — Jahangirnagar University *(Thesis: Natural Language Mathematical Problem Solver Using Deep Learning)*
+- 🎓 **B.Sc in CSE** — American International University-Bangladesh (AIUB)
 - 🤖 Passionate about **LLMs, AI Agents, Prompt Engineering, MLOps, and Workflow Automation**
-- ⚡ **Key Metric:** Reduced repetitive manual operational tasks by **~40%** while maintaining **99%+ system reliability**
+- 💬 Ask me about **System Engineering, ETL Pipelines, Laravel, Python Automation, or AI-Assisted Development**
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+## 📊 Impact at a Glance
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h2>2M+</h2>
+      <sub>Records processed daily</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>~40%</h2>
+      <sub>Manual work automated</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>99%+</h2>
+      <sub>System uptime maintained</sub>
+    </td>
+    <td align="center" width="25%">
+      <h2>4+</h2>
+      <sub>Years in production IT</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Expertise
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 AI, LLM & Automation</h4>
+
+### 🤖 AI, LLM & Automation
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Eng-8E44AD?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-3498DB?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning-F39C12?style=flat-square)
+
+### 💻 Programming & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
+
+### 🗄️ Data & Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+    </td>
+    <td width="50%" valign="top">
+
+### ☁️ DevOps, Cloud & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+### ⚙️ CI/CD & Version Control
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 Monitoring & SRE
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 Cloud Billing System (Coloasia)</h3>
+      <p><b>Stack:</b> <code>Laravel</code> <code>MySQL</code> <code>REST APIs</code></p>
       <ul>
-        <li><b>AI Tools & Assistants:</b> Claude Code, Generative AI, Prompt Engineering</li>
-        <li><b>AI/ML Domain:</b> LLMs, Transformers, NLP, Machine Learning, AI Agents</li>
-        <li><b>Workflow Automation:</b> AI-Assisted Refactoring & Development Automation</li>
-      </ul>
-      <h4>💻 Programming & Backend</h4>
-      <ul>
-        <li><b>Languages:</b> Python, PHP, Shell / Bash</li>
-        <li><b>Frameworks:</b> Laravel, RESTful API Design & Integration</li>
-      </ul>
-      <h4>🗄️ Data & Databases</h4>
-      <ul>
-        <li><b>RDBMS / Engines:</b> MySQL, Oracle SQL, PostgreSQL, SQLite</li>
-        <li><b>Data Engineering:</b> ETL Pipelines, Batch Processing, Data Validation, Query Optimization</li>
+        <li>Full-featured billing platform for cloud & data center services</li>
+        <li>Usage-based billing, invoicing engine, and customer lifecycle management</li>
+        <li><b>Deployed in production</b> and actively used in live business operations</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>☁️ DevOps, Cloud & Infrastructure</h4>
+      <h3>⚙️ Enterprise Process Automation</h3>
+      <p><b>Stack:</b> <code>Python</code> <code>Shell</code> <code>LLM Tooling</code> <code>MySQL</code></p>
       <ul>
-        <li><b>Containerization & Orchestration:</b> Docker, Kubernetes, Helm</li>
-        <li><b>Cloud & IaC:</b> AWS, Terraform, Ansible</li>
-        <li><b>CI/CD & GitOps:</b> GitHub Actions, Git, ArgoCD</li>
-        <li><b>Servers & Networking:</b> Linux (Ubuntu/RHEL), Nginx, Virtualization</li>
+        <li>Internal HRM platform & cross-department workflow automation tools</li>
+        <li>Automated system reconciliation & operational pipelines</li>
+        <li>Reduced repetitive manual workload by <b>~40%</b></li>
       </ul>
-      <h4>📊 Monitoring & Site Reliability</h4>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Math Problem Solver</h3>
+      <p><b>Stack:</b> <code>Python</code> <code>Deep Learning</code> <code>Transformers</code></p>
       <ul>
-        <li><b>Monitoring:</b> Prometheus, Grafana</li>
-        <li><b>Operations:</b> Incident Management, High Availability, Backup & Recovery, Capacity Planning</li>
+        <li>M.Sc thesis — NLP pipeline to parse & solve math word problems</li>
+        <li>Leverages transformer architectures for sequence understanding</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Enterprise Data Engine</h3>
+      <p><b>Stack:</b> <code>Python</code> <code>SQL</code> <code>ETL</code> <code>Docker</code></p>
+      <ul>
+        <li>Processes <b>2M+ records daily</b> across CRM / DWH / BSS / OSS</li>
+        <li>Monitors pipelines, batch jobs, logs & system resources</li>
+        <li>Maintains <b>99%+ reliability</b> across critical telecom infra</li>
       </ul>
     </td>
   </tr>
@@ -74,47 +154,46 @@ I bridge the gap between **Software Engineering**, **DevOps/Systems**, and **Gen
 
 ---
 
-### 📈 Core Impact & Key Achievements
+## 📜 Certifications & Training
 
-- 🚀 **High-Volume Data Engine:** Designed and maintained production workflows processing **2M+ records daily** across interconnected CRM, DWH, BSS, and OSS systems.
-- ⚙️ **Process Automation:** Built custom automation tools and shell/Python scripts that eliminated **~40% of repetitive operational tasks**.
-- 💳 **Production Cloud Billing Platform:** Engineered and deployed the full-featured **Cloud Billing System (Coloasia)** utilizing Laravel, MySQL, and REST APIs for cloud & data center services.
-- 🛡️ **Enterprise System Reliability:** Maintained **99%+ uptime** across critical telecommunication charging, CRM, and CMS infrastructures.
+**☁️ DevOps & Cloud**
+- Ostad — Mastering DevOps
+- Coursera — Big Data Introduction
+- Coursera — Programming for Everybody
 
----
-
-### 📂 Featured Projects
-
-| Project | Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **[Cloud Billing System (Coloasia)](#)** | `Laravel` `MySQL` `REST APIs` | Built complete usage-based billing platform, invoicing engine, and customer lifecycle management system used in live business operations. |
-| **[Enterprise Process Automation](#)** | `Python` `Shell` `LLM Tooling` `MySQL` | Internal HRM, operational workflow automation tools, and automated system reconciliation platforms for Mir Group. |
-| **[AI Math Problem Solver](#)** | `Python` `Deep Learning` `Transformers` | M.Sc thesis project leveraging NLP and deep learning to parse and solve complex math word problems. |
+**🤖 AI & Data Science**
+- Generative AI Mastermind — OutSkill
+- IBM — Getting Started with Generative AI
+- Hugging Face — AI Agents Fundamentals
+- Ostad — AI Automation Career
+- Ostad — Data Science Fundamentals
+- Kaggle — Pandas & Data Visualization
 
 ---
 
-### 📜 Certifications & Training
+## 📫 Connect With Me
 
-- **DevOps & Cloud:** *Ostad Mastering DevOps*, *Coursera Big Data Introduction*
-- **AI & Data Science:** *Generative AI Mastermind*, *IBM Getting Started with Generative AI*, *Hugging Face AI Agents Fundamentals*, *Ostad AI Automation Career*, *Kaggle Pandas & Data Visualization*, *Ostad Data Science Fundamentals*
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/rakibul-islam-770" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Rakib-770" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:rakibulislam5770@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+8801686715770">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </p>
 
 ---
+
 <p align="center">
   <i>"Combining System Engineering, High-Availability Infrastructure, and AI-Driven Development to Solve Real-World Problems."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakib-770&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
