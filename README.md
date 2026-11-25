@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rakibul Islam</h1>
-<h3 align="center">System Engineer • AI-Assisted Developer • Automation & Cloud Infrastructure</h3>
+<h3 align="center">System Engineer • AI-Native Developer • Automation & Cloud Infrastructure</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rakibul-islam-770"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=System+Engineer+%7C+4%2B+Years;AI-Assisted+Developer+%7C+Claude+Code;Automating+40%25+of+Manual+Workflows;Processing+2M%2B+Records+Daily" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=System+Engineer+%7C+4%2B+Years;AI-Native+Developer+%7C+Claude+Code;Automating+40%25+of+Manual+Workflows;Processing+2M%2B+Records+Daily" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **Experienced System Engineer & AI-Assisted Software Developer** with **4+ years** of hands-on expertise building enterprise-grade applications, automated data pipelines, high-availability infrastructure, and modern AI-driven workflows.
+I'm an **Experienced System Engineer & AI-Native Software Developer** with **4+ years** of hands-on expertise building enterprise-grade applications, automated data pipelines, high-availability infrastructure, and modern AI-driven workflows.
 
 I bridge **Software Engineering**, **DevOps/Systems**, and **Generative AI** — using advanced LLMs (Claude Code, GPT) to accelerate feature delivery, refactor legacy codebases, automate complex workflows, and optimize high-throughput data pipelines.
 
@@ -24,7 +24,7 @@ I bridge **Software Engineering**, **DevOps/Systems**, and **Generative AI** —
 - 🎓 **M.Sc in CSE** — Jahangirnagar University *(Thesis: Natural Language Mathematical Problem Solver Using Deep Learning)*
 - 🎓 **B.Sc in CSE** — American International University-Bangladesh (AIUB)
 - 🤖 Passionate about **LLMs, AI Agents, Prompt Engineering, MLOps, and Workflow Automation**
-- 💬 Ask me about **System Engineering, ETL Pipelines, Laravel, Python Automation, or AI-Assisted Development**
+- 💬 Ask me about **System Engineering, ETL Pipelines, Laravel, Python Automation, or AI-Native Development**
 
 ---
 
